@@ -1,0 +1,2 @@
+<?
+require('heatheread-options.php');
